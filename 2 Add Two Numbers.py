@@ -99,3 +99,5 @@ class Solution:
 #Evaluate 
 #Time Complexity: O(n), where n is len of max(l1,l2)
 #Space Complexity: O(n), where n is len of max(l1,l2)
+#Completed 7/5/25
+#Time: 33:02
