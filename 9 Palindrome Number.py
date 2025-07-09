@@ -5,8 +5,8 @@
 #Two Pointer Method
 
 #Plan
-#pointerLeft 
-#pointerRight
+#pointerLeft = 0
+#pointerRight = last element
 #while pointerLeft <= pointerRight:
     #if pointerLeft != pointerRight:
         #return False
